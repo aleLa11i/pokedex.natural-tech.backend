@@ -1,0 +1,2 @@
+export const PAGINATION_ITEMS_AMOUNT = 10;
+export const TOTAL_POKEMONS = 1302;
